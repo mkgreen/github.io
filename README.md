@@ -1,5 +1,5 @@
 # github.io
 
-2nd site, work in progress
+## 2nd site 🚧 under construction 🚧
 
-running site: [https://mkgreen.github.io/milogreen.github.io/](https://mkgreen.github.io/milogreen.github.io/)
+# 🧑‍💻running site: [https://mkgreen.github.io/milogreen.github.io/](https://mkgreen.github.io/milogreen.github.io/)
