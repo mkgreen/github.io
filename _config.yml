@@ -1,6 +1,9 @@
-theme: tactile
 title: My GitHub Page
 description: Welcome to my GitHub
+plugins:
+  - jekyll-remote-theme
+remote_theme: pages-themes/tactile@v0.2.0
+
 
 navigation:
 - text: Home
