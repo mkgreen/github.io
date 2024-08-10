@@ -6,5 +6,5 @@ title: Contact
 
 # Contact
 
-email:
+email: 
 phone:
